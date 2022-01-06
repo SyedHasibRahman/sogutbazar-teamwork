@@ -3,7 +3,7 @@
 Please visit this [https://sogutbazar.netlify.app/](https://sogutbazar.netlify.app/) to see the live website.
 
 
-# Welcome to MedicineBD This project is used by
+# Welcome to Sogut Bazar.com This project is used by
 
 ## Available Scripts
 
