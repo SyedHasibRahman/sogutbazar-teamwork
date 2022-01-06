@@ -13,14 +13,7 @@ import ContactForm from "../ContactForm/ContactForm";
 const Home = () => {
   return (
     <>
-      <Navigation />
-      <Header />
-      <ServiceSummary />
-      <UploadPreccription />
-      <HomeProducts />
-      <Testimonials />
-      <Newsletter />
-      <ContactForm />
+      <Navigation /> 
       <Footer />
     </>
   );
