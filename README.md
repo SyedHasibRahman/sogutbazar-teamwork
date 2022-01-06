@@ -1,4 +1,4 @@
-# Welcome to [MedicineBD](https://medicinebd-team.web.app/)
+# Welcome to [Sogut Bazar.com](https://sogutbazar.netlify.app/)
 
 Please visit this [https://sogutbazar.netlify.app/](https://sogutbazar.netlify.app/) to see the live website.
 
