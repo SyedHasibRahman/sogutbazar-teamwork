@@ -1,0 +1,80 @@
+.about-bg{
+    background:linear-gradient(0deg, rgba(117, 18, 197, 0.301), rgba(109, 16, 185, 0.582)), url('https://i.ibb.co/K7G7wy3/banner1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.explore-head{
+    color: white;
+}
+
+.item{
+    text-decoration: none;
+    color: white;
+}
+.item:hover{
+    color: white;
+}
+
+.all-services{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.all-services h2{
+    font-size: 35px;  
+    font-weight: 700;
+    color: black; 
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+}
+.all-services p{
+    position: relative;
+    font-size: 18px;  
+    font-weight: 500;  
+    color: rgba(82, 20, 122, 0.904);
+    font-family: 'Poppins', sans-serif;
+}
+
+.service-title{
+    font-weight: 700;
+    transition: 0.3s;
+}
+.service-title:hover{
+    color: rgba(82, 20, 122, 0.904);
+}
+.all-services h2::before{
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 3px;
+    background-color: rgba(82, 20, 122, 0.904);
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: animate 4s linear infinite;
+}
+@keyframes animate{
+    0%{
+        width: 100px;
+    }
+    50%{
+        width: 200px;
+    }
+    100%{
+        width: 100px;
+    }
+}
+
+.about-des-img{
+    width: 120px;
+}
+.mission-vision{
+    box-shadow: -8px 13px 39px -10px rgba(0,0,0,0.64);
+-webkit-box-shadow: -8px 13px 39px -10px rgba(0,0,0,0.64);
+-moz-box-shadow: -8px 13px 39px -10px rgba(0,0,0,0.64);
+}
+.vision{
+    width: 18%;
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Thai Adult Diaper",
+    "img": "https://i.ibb.co/g6X363z/p1.png",
+    "cat_name": "Baby & Mom Care",
+    "catagory": "baby",
+    "price": 900
+  },
+  {
+    "id": 2,
+    "name": "Thai Adult Diaper",
+    "img": "https://i.ibb.co/g6X363z/p1.png",
+    "cat_name": "Baby & Mom Care",
+    "catagory": "baby",
+    "price": 900
+  },
+  {
+    "id": 3,
+    "name": "Thai Adult Diaper",
+    "img": "https://i.ibb.co/g6X363z/p1.png",
+    "cat_name": "Baby & Mom Care",
+    "catagory": "baby",
+    "price": 900
+  },
+  {
+    "id": 4,
+    "name": "Thai Adult Diaper",
+    "img": "https://i.ibb.co/g6X363z/p1.png",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 5,
+    "name": "Thai Adult Diaper",
+    "img": "https://i.ibb.co/g6X363z/p1.png",
+    "cat_name": "Baby & Mom Care",
+    "catagory": "baby",
+    "price": 900
+  },
+  {
+    "id": 6,
+    "name": "Adovas",
+    "img": "https://i.ibb.co/NsQ4F3m/p2.png",
+    "cat_name": "Herbal Care",
+    "catagory": "herbal",
+    "price": 65
+  },
+  {
+    "id": 7,
+    "name": "Adovas",
+    "img": "https://i.ibb.co/NsQ4F3m/p2.png",
+    "cat_name": "Herbal Care",
+    "catagory": "herbal",
+    "price": 65
+  },
+  {
+    "id": 8,
+    "name": "Adovas",
+    "img": "https://i.ibb.co/NsQ4F3m/p2.png",
+    "cat_name": "Herbal Care",
+    "catagory": "herbal",
+    "price": 65
+  },
+  {
+    "id": 9,
+    "name": "Adovas",
+    "img": "https://i.ibb.co/NsQ4F3m/p2.png",
+    "cat_name": "Herbal Care",
+    "catagory": "herbal",
+    "price": 65
+  },
+  {
+    "id": 10,
+    "name": "Adovas",
+    "img": "https://i.ibb.co/NsQ4F3m/p2.png",
+    "cat_name": "Herbal Care",
+    "catagory": "herbal",
+    "price": 65
+  }
+]

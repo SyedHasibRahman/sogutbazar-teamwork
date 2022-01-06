@@ -1,0 +1,92 @@
+.burger{
+    font-size: 60px;
+    color: #fbaf32;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+
+ .custom-btn{
+    padding: 12px 25px;
+    font-size: 16px;
+    font-weight: 800;
+    color: #fff;
+    background: rgb(5, 255, 172);
+    border: 2px solid rgb(155, 5, 255);
+    border-radius: 5px;
+    transition: .4s;
+} 
+
+
+
+.carousel-item{
+    height: 100vh;
+    background :no-repeat scroll center scroll;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.carousel-caption{
+    margin-bottom:120px ; 
+}
+
+.carousel-item::before{
+    position: absolute;
+    
+    content: "";
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000;
+    opacity: 0.7;
+}
+
+.carousel-caption h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.carousel-caption p{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.carousel-caption span{
+    color: rgb(155, 5, 255);
+}
+
+.custom-btn:last-child{
+    margin-left: 10px;
+    background: rgba(93, 84, 218, 0.904);
+    border-color: rgb(155, 5, 255);
+   
+}
+
+.custom-btn:hover{
+    border: 2px solid rgb(155, 5, 255) ;
+    color: rgb(155, 5, 255);
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+ .custom-btn:hover:last-child{
+    color: rgb(155, 5, 255);
+    border: 2px solid rgb(155, 5, 255);
+    border-radius: 5px;
+}
+
+.banner{
+    background-image: url(https://i.ibb.co/K7G7wy3/banner1.png);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.banner h1{
+    color: green;  
+    font-weight: bold;  
+}

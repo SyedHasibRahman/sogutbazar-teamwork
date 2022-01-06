@@ -1,0 +1,20 @@
+.price{
+    color: rgba(82, 20, 122, 0.904);
+    font-weight: bold;
+    font-size: 20px;
+}
+.slick-side {
+    position: relative;
+  }
+  input{
+      width: 400px;
+      padding: 10px;
+      border: 2px solid rgba(82, 20, 122, 0.904);
+  }
+
+  .submit-btn{
+      background-color: rgba(82, 20, 122, 0.904);
+      border-radius: 5px;
+      color: white;
+      border: none;
+  }

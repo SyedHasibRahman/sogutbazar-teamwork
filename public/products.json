@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Harvest Frozen Paratha Family Pack 1300 gm",
+    "img": "https://chaldn.com/_mpimage/golden-harvest-frozen-paratha-family-pack-1300-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D87974&q=best&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 2,
+    "name": "Kellogg's Moon & Stars Chocolate Breakfast Cereal",
+    "img": "https://chaldn.com/_mpimage/kelloggs-moon-stars-chocolate-breakfast-cereal-26-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68184&q=low&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 3,
+    "name": "Quaker Oats Jar",
+    "img": "https://chaldn.com/_mpimage/quaker-oats-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D55040&q=low&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 4,
+    "name": "Nestle Nescafe Classic Instant Coffee Pouch Pack",
+    "img": "https://chaldn.com/_mpimage/nestle-nescafe-classic-instant-coffee-pouch-pack-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71838&q=low&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 5,
+    "name": "Coca-Cola Diet No Sugar Diet",
+    "img": "https://chaldn.com/_mpimage/coca-cola-diet-no-sugar-diet-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64200&q=low&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 6,
+    "name": "Pureit Classic Blue Water Purifier",
+    "img": "https://chaldn.com/_mpimage/pureit-classic-blue-water-purifier-23-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45978&q=low&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 7,
+    "name": "Tang Orange Flavoured Instant Drink Powder",
+    "img": "https://chaldn.com/_mpimage/tang-orange-flavoured-instant-drink-powder-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75867&q=low&v=1&m=400&webp=1",
+    "cat_name": "Baby & Mom Care",
+    "category": "baby",
+    "price": 900
+  },
+  {
+    "id": 8,
+    "name": "Tofu & Meat Alternatives",
+    "img": "https://chaldn.com/_mpimage/tofu-meat-alternatives?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29189&q=low&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "herbal",
+    "price": 65
+  },
+  {
+    "id": 9,
+    "name": "AdovSaporito Red Kidney Beansas",
+    "img": "https://chaldn.com/_mpimage/saporito-red-kidney-beans-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92541&q=best&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "herbal",
+    "price": 65
+  },
+  {
+    "id": 10,
+    "name": "Amul Butter Unsalted",
+    "img": "https://chaldn.com/_mpimage/amul-butter-unsalted-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D90355&q=best&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "herbal",
+    "price": 65
+  },
+  {
+    "id": 11,
+    "name": "Arla Burger Slice Cheddar Cheese",
+    "img": "https://chaldn.com/_mpimage/arla-burger-slice-cheddar-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60023&q=low&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "herbal",
+    "price": 65
+  },
+  {
+    "id": 12,
+    "name": "Purnava Omega 3 Enriched Eggs",
+    "img": "https://chaldn.com/_mpimage/purnava-omega-3-enriched-eggs-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77566&q=low&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "herbal",
+    "price": 65
+  },
+  {
+    "id": 13,
+    "name": "Danish Ayran Sour Yogurt",
+    "img": "https://chaldn.com/_mpimage/danish-ayran-sour-yogurt-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D66035&q=low&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "square",
+    "price": 65
+  },
+  {
+    "id": 14,
+    "name": "Frozen Snacks",
+    "img": "https://chaldn.com/_mpimage/frozen-snacks?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28655&q=low&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "showrav",
+    "price": 65
+  },
+  {
+    "id": 15,
+    "name": "American Garden Mushroom Whole",
+    "img": "https://chaldn.com/_mpimage/american-garden-mushroom-whole-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92499&q=best&v=1&m=400&webp=1",
+    "cat_name": "Herbal Care",
+    "category": "showrav",
+    "price": 65
+  }
+]

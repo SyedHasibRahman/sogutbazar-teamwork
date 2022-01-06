@@ -1,0 +1,54 @@
+.topic {
+  text-decoration: none;
+  font-weight: 500;
+  color: #fff;
+
+}
+.topic:hover {
+  color: rgba(255, 255, 255, 0.897);
+}
+
+.navbar {
+  background-color: rgba(93, 84, 218, 0.904);
+  padding: 1rem 2rem;
+  /* min-height: 12vh; */
+}
+
+.navbar-toggler {
+  background-color: rgb(155, 5, 255);
+  border: none;
+  padding: 10px 6px;
+  outline: none;
+}
+.navbar-toggler span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  border: 1px;
+  background-color: #fff;
+}
+.navbar-toggler span + span {
+  margin-top: 4px;
+  width: 18px;
+  margin-left: 4px;
+}
+.navbar-toggler span + span + span {
+  margin-left: 10px;
+  width: 10px;
+}
+
+.login {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+}
+.login:hover {
+  color: white;
+}
+
+.login-btn {
+  background-color: rgb(155, 5, 255);
+  color: white;
+  padding: 10px 55px;
+  border: none;
+}
